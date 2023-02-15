@@ -18,12 +18,9 @@ fisher install archelaus/shell-mommy
 
 ## :paintbrush: Configuration
 
-You can tweak `shell-mommy` behavior and color by changing [environment variables](https://fishshell.com/docs/current/tutorial.html#tut_universal) either directly in the terminal or in your `config.fish`, _e.g._:
-
-    set --universal pure_show_system_time true
-    set --universal pure_color_system_time pure_color_mute
+You can tweak `shell-mommy` behavior and color by changing [environment variables](https://fishshell.com/docs/current/tutorial.html#tut_universal) either directly in the terminal or in your `config.fish`
     
-https://github.com/sudofox/shell-mommy#configuration
+Check [sudofox/shell-mommy#configuration](https://github.com/sudofox/shell-mommy#configuration) for info on variables
 
 ## :clap: Thanks
 
@@ -32,18 +29,3 @@ https://github.com/sudofox/shell-mommy#configuration
 ## :classical_building: License
 
 [MIT][MIT]
-
-[ci-link]: <https://github.com/pure-fish/pure/actions> "Github CI"
-[ci-status]: https://img.shields.io/github/actions/workflow/status/pure-fish/pure/.github/workflows/ci.yml?style=flat-square
-
-[fish-3]: <https://img.shields.io/badge/fish-v3-007EC7.svg?style=flat-square> "Support Fish 3"
-[exit-code]: <https://github.com/sindresorhus/pure/wiki#show-exit-code-of-last-command-as-a-separate-prompt-character> "See pure-zsh wiki"
-[fish-releases]: https://github.com/fish-shell/fish-shell/releases
-[docker-images]: https://github.com/andreiborisov/docker-fish/
-[MIT]: LICENSE.md
-[fish-set-color]: https://fishshell.com/docs/current/cmds/set_color.html
-[container-detection]: https://stackoverflow.com/q/23513045/802365
-
-[badge-version]: https://img.shields.io/github/v/tag/pure-fish/pure?label=latest%20&style=flat-square
-[sponsors]: https://img.shields.io/github/sponsors/edouard-lopez?label=💰&style=flat-square "GitHub Sponsors"
-[sponsor-link]: https://github.com/sponsors/edouard-lopez/ "Become a sponsor"
