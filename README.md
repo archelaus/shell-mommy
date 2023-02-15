@@ -22,6 +22,10 @@ You can tweak `shell-mommy` behavior and color by changing [environment variable
     
 Check [`sudofox/shell-mommy#configuration`](https://github.com/sudofox/shell-mommy#configuration) for info on variables
 
+## :electric_plug: Differences
+- No need to source the script manually. Just install it using Fisher and it'll be activated automatically after shell restart
+- Runs after each command executed in the shell (Need to change this behavior)
+
 ## :clap: Thanks
 
 - [@sudofox](https://github.com/sudofox/shell-mommy) for starting the project ;
