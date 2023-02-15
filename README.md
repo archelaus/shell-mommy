@@ -22,9 +22,10 @@ You can tweak `shell-mommy` behavior and color by changing [environment variable
     
 Check [`sudofox/shell-mommy#configuration`](https://github.com/sudofox/shell-mommy#configuration) for info on variables
 
-## :electric_plug: Differences
+## :electric_plug: Note
 - No need to source the script manually. Just install it using Fisher and it'll be activated automatically after shell restart
 - Runs after each command executed in the shell (Need to change this behavior)
+- Add support for [pluggable configurations](https://github.com/sudofox/shell-mommy/issues/6)
 
 ## :clap: Thanks
 
