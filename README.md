@@ -33,4 +33,4 @@ Check [`sudofox/shell-mommy#configuration`](https://github.com/sudofox/shell-mom
 
 ## :classical_building: License
 
-[MIT][MIT]
+[MIT][LICENSE]
