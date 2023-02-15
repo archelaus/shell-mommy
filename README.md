@@ -20,7 +20,7 @@ fisher install archelaus/shell-mommy
 
 You can tweak `shell-mommy` behavior and color by changing [environment variables](https://fishshell.com/docs/current/tutorial.html#tut_universal) either directly in the terminal or in your `config.fish`
     
-Check [sudofox/shell-mommy#configuration](https://github.com/sudofox/shell-mommy#configuration) for info on variables
+Check [`sudofox/shell-mommy#configuration`](https://github.com/sudofox/shell-mommy#configuration) for info on variables
 
 ## :clap: Thanks
 
